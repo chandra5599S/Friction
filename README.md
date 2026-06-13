@@ -46,8 +46,7 @@ OR
 
 Add your Netlify deployment URL here.
 
-Example:
-https://friction-necessary-evil.netlify.app
+https://github.com/chandra5599S/Friction.git
 
 ## Future Enhancements
 
