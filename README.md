@@ -44,7 +44,7 @@ OR
 
 ## Deployment Link
 
-file:///C:/Users/c6285/OneDrive/Desktop/Friction-Necessary-Evil/index.html
+https://github.com/chandra5599S/Friction
 
 ## Future Enhancements
 
