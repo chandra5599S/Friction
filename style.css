@@ -1,0 +1,5 @@
+
+body{font-family:Arial,sans-serif;margin:0;background:#f8fafc}
+nav{background:#2563eb;padding:15px} nav a,.logo{color:white;margin-right:15px;text-decoration:none}
+.hero,.content{text-align:center;padding:80px 20px}
+.btn{background:#2563eb;color:white;padding:12px 20px;text-decoration:none;border-radius:8px}
