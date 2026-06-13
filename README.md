@@ -44,8 +44,6 @@ OR
 
 ## Deployment Link
 
-Add your Netlify deployment URL here.
-
 https://github.com/chandra5599S/Friction.git
 
 ## Future Enhancements
